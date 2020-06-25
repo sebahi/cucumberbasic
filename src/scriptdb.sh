@@ -1,1 +1,1 @@
-echo "Hello Omar, from scriptdb"
+echo "New Hello Omar, from scriptdb"
